@@ -9,7 +9,7 @@
 - 4장 - [신경망 학습](<https://github.com/eunsour/Deep-Learning-from-Scratch/blob/main/Chapter%2004/Ch4_Neural_network_training.ipynb>)
 - 5장 - [오차역전파법](<https://github.com/eunsour/Deep-Learning-from-Scratch/blob/main/Chapter%2005/Ch5_Backpropagation.ipynb>)
 - 6장 - [학습 관련 기술들](<https://github.com/eunsour/Deep-Learning-from-Scratch/blob/main/Chapter%2006/Ch6_Learning-related%20skills.ipynb>)
-- 7장 - 합성곱 신경망(CNN)
+- 7장 - [합성곱 신경망(CNN)](<https://github.com/eunsour/Deep-Learning-from-Scratch/blob/main/Chapter%2007/Ch7_Convolutional%20Neural%20Networks.ipynb>)
 - 8장 - 딥러닝<br/><br/><br/>
 
   
